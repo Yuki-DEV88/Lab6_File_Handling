@@ -1,0 +1,5 @@
+Student: Cardenas
+Student ID: TUPM-26-1258
+Seed digit: 8
+ID Sum: 24
+Verification value: 200

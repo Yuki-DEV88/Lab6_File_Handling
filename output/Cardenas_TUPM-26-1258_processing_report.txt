@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Cardenas
+Student ID: TUPM-26-1258
+Seed Digit: 8
+ID Sum: 24
+Verification Value: 200
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON file: Cardenas_TUPM-26-1258_record.json
+Backup File: Cardenas_TUPM-26-1258_record.csv
